@@ -1,32 +1,33 @@
 {
-	"name": "country-in-text-detector",
-	"version": "1.0.10",
-	"author": "Jan Rus <ing.janrus@gmail.com> (https://cz.linkedin.com/in/rusjan)",
-	"description": "Module for detection of countries in given text. Detects countries by international and local name, some of them in more language mutations. Uses also names of large cities to derive related countries.",
-	"keywords": [
-		"country",
-		"state",
-		"city",
-		"detection",
-		"identification",
-		"string",
-		"location"
-	],
-	"license": "MIT",
-	"main": "index.js",
-	"repository": {
-		"type": "git",
-		"url": "git+ssh://git@github.com/jan-rus/country-in-text-detector.git"
-	},
-	"engines": {
-		"node": ">=1.0.0"
-	},
-	"dependencies": {},
-	"bugs": {
-		"url": "https://github.com/jan-rus/country-in-text-detector/issues"
-	},
-	"homepage": "https://github.com/jan-rus/country-in-text-detector#readme",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	}
+  "name": "country-in-text-detector",
+  "version": "1.0.10",
+  "type": "module",
+  "author": "Jan Rus <ing.janrus@gmail.com> (https://cz.linkedin.com/in/rusjan)",
+  "description": "Module for detection of countries in given text. Detects countries by international and local name, some of them in more language mutations. Uses also names of large cities to derive related countries.",
+  "keywords": [
+    "country",
+    "state",
+    "city",
+    "detection",
+    "identification",
+    "string",
+    "location"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jan-rus/country-in-text-detector.git"
+  },
+  "engines": {
+    "node": ">=1.0.0"
+  },
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/jan-rus/country-in-text-detector/issues"
+  },
+  "homepage": "https://github.com/jan-rus/country-in-text-detector#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
